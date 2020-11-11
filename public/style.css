@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color:whitesmoke;
+    font-size: 100px;
+    text-align: center;
+}
+button{
+    background-color: white; 
+    
+    border: none;
+    color: black;
+    padding: 30px 50px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-style: oblique;
+    margin: 4px 10px;
+    cursor: pointer;
+   
+}
+.buttons{
+    display: flex;
+    
+    justify-content: center;
+     align-items: center;
+}

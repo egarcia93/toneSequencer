@@ -1,0 +1,27 @@
+body{
+    background-color: white;
+}
+
+
+.project_title{
+    color:black;
+    text-align: center;
+  
+    font-size: 100px;
+    margin-bottom: 10px;
+    
+}
+
+.project_container{
+    
+    margin: 0;
+    display: flex;
+    height: 600px;
+
+  /* This centers our sketch horizontally. */
+  justify-content: center;
+
+  /* This centers our sketch vertically. */
+  align-items: center;
+   
+}
